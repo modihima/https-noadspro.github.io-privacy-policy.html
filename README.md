@@ -1,4 +1,3 @@
-# https-noadspro.github.noads-privacy-policy.html
 NoAds Pro - Privacy Query
 <!DOCTYPE html>
 <html lang="en">
